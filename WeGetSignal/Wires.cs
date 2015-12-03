@@ -1,11 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace WeGetSignal
+﻿namespace WeGetSignal
 {
+    using System;
+    using System.Collections.Generic;
+    using System.Linq;
+
     public class SimpleWires : Module
     {
         private const int MinWires = 3;
